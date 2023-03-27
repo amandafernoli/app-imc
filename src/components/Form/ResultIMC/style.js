@@ -4,7 +4,7 @@ const styles = StyleSheet.create({
   resultImc: {
     flex: 1,
     marginTop: 15,
-    paddingTop: 30,
+    paddingTop: 20,
     borderRadius: 50,
     alignItems: 'center',
     width: '100%',
