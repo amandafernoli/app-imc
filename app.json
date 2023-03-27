@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-cotacao",
-    "slug": "app-cotacao",
+    "name": "app-imc",
+    "slug": "app-imc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
