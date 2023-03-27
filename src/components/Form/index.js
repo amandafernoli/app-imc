@@ -34,7 +34,7 @@ export default function Form () {
       imcCalculator();
       setHeight(null);
       setWeight(null);
-      setMessageImc("Seu IMC é igual a ");
+      setMessageImc("Seu IMC atual é ");
       setTextButton("Calcular novamente");
       setErrorMessage(null);
       return ;
